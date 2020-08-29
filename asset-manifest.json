@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/paint-app/static/js/main.836bcc9a.chunk.js",
-    "main.js.map": "/paint-app/static/js/main.836bcc9a.chunk.js.map",
+    "main.css": "/paint-app/static/css/main.111dd4c7.chunk.css",
+    "main.js": "/paint-app/static/js/main.53db2a6d.chunk.js",
+    "main.js.map": "/paint-app/static/js/main.53db2a6d.chunk.js.map",
     "runtime-main.js": "/paint-app/static/js/runtime-main.58c6a7e6.js",
     "runtime-main.js.map": "/paint-app/static/js/runtime-main.58c6a7e6.js.map",
-    "static/js/2.9bd4801f.chunk.js": "/paint-app/static/js/2.9bd4801f.chunk.js",
-    "static/js/2.9bd4801f.chunk.js.map": "/paint-app/static/js/2.9bd4801f.chunk.js.map",
+    "static/js/2.9d16fc62.chunk.js": "/paint-app/static/js/2.9d16fc62.chunk.js",
+    "static/js/2.9d16fc62.chunk.js.map": "/paint-app/static/js/2.9d16fc62.chunk.js.map",
     "index.html": "/paint-app/index.html",
-    "precache-manifest.c9e17c30536635fc4ac0b09248753fc6.js": "/paint-app/precache-manifest.c9e17c30536635fc4ac0b09248753fc6.js",
+    "precache-manifest.c9ef453c9794f067ad57598d681de790.js": "/paint-app/precache-manifest.c9ef453c9794f067ad57598d681de790.js",
     "service-worker.js": "/paint-app/service-worker.js",
-    "static/js/2.9bd4801f.chunk.js.LICENSE.txt": "/paint-app/static/js/2.9bd4801f.chunk.js.LICENSE.txt"
+    "static/css/main.111dd4c7.chunk.css.map": "/paint-app/static/css/main.111dd4c7.chunk.css.map",
+    "static/js/2.9d16fc62.chunk.js.LICENSE.txt": "/paint-app/static/js/2.9d16fc62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.58c6a7e6.js",
-    "static/js/2.9bd4801f.chunk.js",
-    "static/js/main.836bcc9a.chunk.js"
+    "static/js/2.9d16fc62.chunk.js",
+    "static/css/main.111dd4c7.chunk.css",
+    "static/js/main.53db2a6d.chunk.js"
   ]
 }

@@ -6,6 +6,8 @@ import { render } from 'react-dom';
 import { HashRouter as Router } from 'react-router-dom';
 //import app component
 import { App } from './components/App'
+//import styles
+import './styles/GlobalStyles.css'
 
 //root const
 const root = document.getElementById('root');

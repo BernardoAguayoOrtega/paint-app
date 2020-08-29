@@ -1,12 +1,17 @@
 //import react
-import React from 'react'
+import React, { useState } from 'react';
 
 //create functional component and export it
 export default function Name() {
-  
-  return (
-    <label className="header-name">
-      
-    </label>
-  )
+	const [name, setName] = useState('');
+
+	return (
+		<label className='header-name'>
+      <input 
+        value={name} 
+        onChange={e => setName(e.target.value)} 
+        onClick={e => e.target.setSelectionRange(0, e.target.value.length)} 
+        placeholder='Untitled' />
+		</label>
+	);
 }
